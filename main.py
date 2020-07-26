@@ -12,7 +12,7 @@ headers = {
     "accept": "application/json",
     "userid": f"{userId}",
     "faceit-referer": "new-frontend",
-    "authorization": "Bearer 3a6215e7-4976-4e2d-9ff4-d74487eda44d",
+    "authorization": "",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36",
     "dnt": "1",
     "origin": "https://api.faceit.com",
